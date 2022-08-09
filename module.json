@@ -1,0 +1,13 @@
+{
+    "name": "UILoadingSpinner",
+    "alias": "uiloadingspinner",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UILoadingSpinner\\Providers\\UILoadingSpinnerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
